@@ -444,13 +444,6 @@
           "seqno": 6,
           "api_name": "Status",
           "columnwidth": 150
-        },
-
-        {
-          "id": "09",
-          "seqno": 8,
-          "api_name": "PaymentType",
-          "columnwidth": 150
         }
       ]
     }
