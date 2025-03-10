@@ -1,0 +1,510 @@
+{
+  "adminsubscription_getlookupdatabyid": {
+    "result": {
+      "data": {
+        "lookupentityid": "6986bd85-151e-468d-82e5-acebb9b12365",
+        "lookupvalues": [
+          {
+            "islookup": true,
+            "masterid": "12AAF129-4402-4545-A8BF-B6BD67B8D00B",
+            "mastervalues": "[{\"optionid\":\"1001\",\"optionvalue\":\"Signupstatus\"},{\"optionid\":\"1002\",\"optionvalue\":\"Tenantstatus\"},{\"optionid\":\"1003\",\"optionvalue\":\"Tenantappstatus\"},{\"optionid\":\"1004\",\"optionvalue\":\"Tenantappstate\"},{\"optionid\":\"1005\",\"optionvalue\":\"Businessunit\"},{\"optionid\":\"1006\",\"optionvalue\":\"Functionalarea\"},{\"optionid\":\"1007\",\"optionvalue\":\"Category\"},{\"optionid\":\"1008\",\"optionvalue\":\"Subcategory\"},{\"optionid\":\"1011\",\"optionvalue\":\"featuretype\"},{\"optionid\":\"1012\",\"optionvalue\":\"Ticketstatus\"},{\"optionid\":\"1013\",\"optionvalue\":\"TicketCategory\"},{\"optionid\":\"1014\",\"optionvalue\":\"EntityType\"},{\"optionid\":\"7032\",\"optionvalue\":\"EntityType\"},{\"optionid\":\"7033\",\"optionvalue\":\"Category\"},{\"optionid\":\"7034\",\"optionvalue\":\"ColumnType\"},{\"optionid\":\"7035\",\"optionvalue\":\"FieldType\"},{\"optionid\":\"7036\",\"optionvalue\":\"Lookup\\/Option\"},{\"optionid\":\"7037\",\"optionvalue\":\"Status\"},{\"optionid\":\"7038\",\"optionvalue\":\"Renewal Reason\"},{\"optionid\":\"7039\",\"optionvalue\":\"Timezone\"},{\"optionid\":\"7040\",\"optionvalue\":\"TimeFormat\"},{\"optionid\":\"7041\",\"optionvalue\":\"TimeDisplayFormat\"},{\"optionid\":\"7042\",\"optionvalue\":\"DateDisplayFormat\"},{\"optionid\":\"7043\",\"optionvalue\":\"FinancialYear\"},{\"optionid\":\"7044\",\"optionvalue\":\"Months\"},{\"optionid\":\"7045\",\"optionvalue\":\"Status\"},{\"optionid\":\"7046\",\"optionvalue\":\"LicenseStatus\"},{\"optionid\":\"7047\",\"optionvalue\":\"CustomerType\"}]"
+          },
+          {
+            "islookup": true,
+            "masterid": "5CDC0F7A-0670-45A8-B87E-3B131390931C",
+            "mastervalues": "[{\"optionid\":\"26ED8538-2267-4BF7-90B3-F365E01DF862\",\"optionvalue\":\"Nowdata1\"},{\"optionid\":\"0462F02F-D350-4244-9B76-3CBC965207BB\",\"optionvalue\":\"Project\"},{\"optionid\":\"EBF147E2-1C76-4CF1-8212-FA8765A5F59C\",\"optionvalue\":\"Release\"},{\"optionid\":\"12AAF129-4402-4545-A8BF-B6BD67B8D00B\",\"optionvalue\":\"Option Set\"},{\"optionid\":\"26B84156-CC30-416E-99D5-B37409B4D0BD\",\"optionvalue\":\"Workitem\"},{\"optionid\":\"3E5793C9-600A-481C-B779-319E9009265F\",\"optionvalue\":\"RT\"},{\"optionid\":\"70ED5EC4-44EC-4740-A018-3AC50A05BBB5\",\"optionvalue\":\"Product\"},{\"optionid\":\"C65FE730-5FDC-418E-BDC5-98F2FC405750\",\"optionvalue\":\"Followup\"},{\"optionid\":\"3C6ACDC7-A9FB-463E-A1B4-90B0889959AC\",\"optionvalue\":\"Planner\"},{\"optionid\":\"6A054A51-CAED-4860-9934-754D3EBBAC7D\",\"optionvalue\":\"SubWorkitem\"},{\"optionid\":\"F48EF545-9995-4F8F-857D-DDDA2BC063CC\",\"optionvalue\":\"Assignment\"},{\"optionid\":\"0CC8E8F7-AD90-4C89-8560-F82ADF2945C4\",\"optionvalue\":\"React\"},{\"optionid\":\"CC8E3BB3-66F5-4531-8778-288F87970D52\",\"optionvalue\":\"ssssssssssssssssss\"},{\"optionid\":\"9E2798B0-50C4-4F34-853C-2EDAFD6A7873\",\"optionvalue\":\"1234589\"},{\"optionid\":\"E9C479EA-AF8E-4BA9-8B8A-92CB5932E601\",\"optionvalue\":\"UNITTEST\"},{\"optionid\":\"D4116072-8D19-48D9-AC2C-360F683712A2\",\"optionvalue\":\"Options\"},{\"optionid\":\"F195FBC1-D184-4F3D-97E8-EE2E9734AB42\",\"optionvalue\":\"TECH\"},{\"optionid\":\"C57F6159-8968-4A3D-9413-4718CE8C8AF1\",\"optionvalue\":\"TECH123\"},{\"optionid\":\"4B6D306C-3D67-4266-B8BB-5D84AAA52D4D\",\"optionvalue\":\"Objective\"},{\"optionid\":\"092AB2A3-BD58-402B-9D8C-91FD43679D48\",\"optionvalue\":\"Custom_Check\"},{\"optionid\":\"24C24324-62C2-42F4-9C23-6D1589165E2B\",\"optionvalue\":\"Issuefixentity\"},{\"optionid\":\"5398B1C8-A957-40F5-A53C-7D301B3AF7E2\",\"optionvalue\":\"Load12\"},{\"optionid\":\"897C4304-1070-43B2-B2C2-7DD7C6B4EA65\",\"optionvalue\":\"TASK_ATT1\"},{\"optionid\":\"B39709F6-DF81-43B4-A5E6-7E3BC0AF273E\",\"optionvalue\":\"ACDSNEWEntitys\"},{\"optionid\":\"FAFF8561-F8ED-42A9-851C-ED8ED6C036E5\",\"optionvalue\":\"ACDS1\"},{\"optionid\":\"DF196305-C07C-4C34-84CE-64D558051310\",\"optionvalue\":\"DDDDd\"},{\"optionid\":\"51EAAE5E-9006-4CF2-8E9A-D880E3EC2FC6\",\"optionvalue\":\"Entity_SK_June20\"},{\"optionid\":\"0F5EE621-8EBC-4CF6-BE6F-54ABBED1E9E2\",\"optionvalue\":\"ARCACDS\"},{\"optionid\":\"8F5E3C3E-5430-4BF5-9983-0A5E724F99B0\",\"optionvalue\":\"TestACDS\"},{\"optionid\":\"899A7E0D-6F2A-480F-9626-33303AD2A234\",\"optionvalue\":\"TEST_DEMO1\"},{\"optionid\":\"46A72641-3B4E-4623-AD1B-A1F43B394A56\",\"optionvalue\":\"SubTask1\"},{\"optionid\":\"FEFCE3F8-3056-4F8A-919A-41A15E6D4332\",\"optionvalue\":\"y\"},{\"optionid\":\"2130BEBD-71AE-4702-B9D9-9C1DD7A9C143\",\"optionvalue\":\"Tast1\"},{\"optionid\":\"7EB4E298-71B1-43A9-BD0C-AC7E80518D33\",\"optionvalue\":\"Report\"},{\"optionid\":\"BA54738C-D52A-4CEA-9C97-5A371EA9EB35\",\"optionvalue\":\"DFDF\"},{\"optionid\":\"C8371BB7-EE78-4AAD-8A33-17667D364C75\",\"optionvalue\":\"Roles\"},{\"optionid\":\"EB3234BA-E7D9-46F1-B5E1-A0EA20F3DAF5\",\"optionvalue\":\"subscription\"},{\"optionid\":\"7126BE4B-0E3B-45AE-97A9-262EF1BC4B4F\",\"optionvalue\":\"organization\"},{\"optionid\":\"82817A3F-2033-40EF-A864-77C82E8FC18D\",\"optionvalue\":\"Industry\"},{\"optionid\":\"78268231-B2FF-437F-9DB7-78F762A4DB7A\",\"optionvalue\":\"T_DEMOENTITY\"},{\"optionid\":\"8E982D43-8A3C-49E2-8EE8-FE3813FF23A0\",\"optionvalue\":\"EntityNewcheck\"},{\"optionid\":\"E6EDBDB7-F9E6-4334-819E-CB814145C73A\",\"optionvalue\":\"ADSS\"},{\"optionid\":\"087D6510-4DF5-4AEC-BDD4-A312BBB05DFE\",\"optionvalue\":\"PlannerEntity\"},{\"optionid\":\"D1D63DF9-68F2-4C51-AB19-F7F53ECD3AA6\",\"optionvalue\":\"Company\"},{\"optionid\":\"54179595-E175-4D1A-B042-F567E5CB0011\",\"optionvalue\":\"Tenant\"},{\"optionid\":\"A8B5EC45-2DF5-471E-BA68-BBA9689B5C16\",\"optionvalue\":\"Users\"},{\"optionid\":\"E049D5B3-DEE2-4ABE-8826-C115D6036E3A\",\"optionvalue\":\"signup\"},{\"optionid\":\"659FA2C9-0AA0-46C4-8D3C-52F60BD9C46D\",\"optionvalue\":\"License\"},{\"optionid\":\"C8E288E1-5EBE-4115-89A5-7C87B87DFBE2\",\"optionvalue\":\"TenantUser\"},{\"optionid\":\"22E84141-8660-4651-98DC-7651C58577D1\",\"optionvalue\":\"TenantUserRoles\"},{\"optionid\":\"3B77E1C3-1474-4539-A6D2-A252B299A4F2\",\"optionvalue\":\"tenantapplication\"},{\"optionid\":\"92D036C2-D37D-43A9-A88D-CE1B06D73B06\",\"optionvalue\":\"tenantapplicationuser\"},{\"optionid\":\"052DBA04-6839-4765-8278-2912B8B1E2E9\",\"optionvalue\":\"License\"},{\"optionid\":\"6986BD85-151E-468D-82E5-ACEBB9B12365\",\"optionvalue\":\"Application\"},{\"optionid\":\"E17118DA-B117-4915-A3D7-593E0AE176D6\",\"optionvalue\":\"Edition\"},{\"optionid\":\"FF91B9C3-D1A9-434B-9DA7-6642C91919B1\",\"optionvalue\":\"Currency\"},{\"optionid\":\"CE6695B2-06F7-4AF2-AAD3-426CC4A7AA7E\",\"optionvalue\":\"Country\"},{\"optionid\":\"67BB75F5-B7B3-4968-A8E5-316D56ED9B3B\",\"optionvalue\":\"State\"},{\"optionid\":\"1A742F66-0762-4324-A84E-2A5938461244\",\"optionvalue\":\"City\"},{\"optionid\":\"7CBE78CB-AD34-4586-8CFE-C47F13C27FE6\",\"optionvalue\":\"Notes\"},{\"optionid\":\"0CBB2C74-EE98-4AF5-B177-EF05D41B44B7\",\"optionvalue\":\"User\"},{\"optionid\":\"EE813A8D-2CC1-479E-BCED-9903D6ADAC98\",\"optionvalue\":\"Timezone_Master\"},{\"optionid\":\"3A6D914E-11A3-495C-82F1-1FD06AA5A6EC\",\"optionvalue\":\"Payment Method\"},{\"optionid\":\"18A0DE1A-86BC-4733-B4DE-129CC6C360EF\",\"optionvalue\":\"Tag\"},{\"optionid\":\"7E6694D1-8477-4E8A-A19F-477156E832FF\",\"optionvalue\":\"TagGroup\"},{\"optionid\":\"3ABF97DB-0216-4486-95B3-461A84981322\",\"optionvalue\":\"RolesPermission\"},{\"optionid\":\"E9DC57CF-365B-4357-8D68-7D741696EBB9\",\"optionvalue\":\"Payment History\"},{\"optionid\":\"589490FA-F0D4-4F56-AD0F-580C4286A73B\",\"optionvalue\":\"Arc_Exportdata\"},{\"optionid\":\"0A5A8FC9-DDA0-4BE0-B0D3-58A81288F8DF\",\"optionvalue\":\"Arc_Exportdata  \"}]"
+          },
+          {
+            "islookup": true,
+            "masterid": "C8371BB7-EE78-4AAD-8A33-17667D364C75",
+            "mastervalues": "[{\"optionid\":\"11d10c50-cc18-4937-b1b4-f904c47c7c1b\",\"optionvalue\":\"Tenant Admin\"},{\"optionid\":\"12d10c50-cc18-4937-b1b4-f904c47c7c2b\",\"optionvalue\":\"Tenant Application Admin\"},{\"optionid\":\"13d10c50-cc18-4937-b1b4-f904c47c7c3b\",\"optionvalue\":\"Tenant Application User Admin\"},{\"optionid\":\"14d10c50-cc18-4937-b1b4-f904c47c7c4b\",\"optionvalue\":\"SupportAdmin\"},{\"optionid\":\"44045f0d-1514-479f-9a8e-9d4009828c74\",\"optionvalue\":\"Staff\"},{\"optionid\":\"b21d61c3-a0e6-4569-bf8d-f19e306e5a55\",\"optionvalue\":\"SuperAdmin\"}]"
+          },
+          {
+            "islookup": true,
+            "masterid": "E17118DA-B117-4915-A3D7-593E0AE176D6",
+            "mastervalues": "[{\"optionid\":\"612DDC85-4178-4385-C86B-08D970E95055\",\"optionvalue\":\"Professional\"},{\"optionid\":\"622DDC85-4178-4385-C86B-08D970E95055\",\"optionvalue\":\"Enterprise\"},{\"optionid\":\"632DDC85-4178-4385-C86B-08D970E95055\",\"optionvalue\":\"Unlimited\"},{\"optionid\":\"642DDC85-4178-4385-C86B-08D970E95055\",\"optionvalue\":\"Trial\"},{\"optionid\":\"652DDC85-4178-4385-C86B-08D970E95055\",\"optionvalue\":\"Standard\"}]"
+          },
+          {
+            "islookup": false,
+            "masterid": "7037",
+            "mastervalues": "[{\"optionid\":\"19000510623\",\"optionvalue\":\"Active\"},{\"optionid\":\"19000510624\",\"optionvalue\":\"InActive\"}]"
+          },
+          {
+            "islookup": false,
+            "masterid": "7034",
+            "mastervalues": "[{\"optionid\":\"597\",\"optionvalue\":\"datetime\"},{\"optionid\":\"598\",\"optionvalue\":\"text\"},{\"optionid\":\"599\",\"optionvalue\":\"numeric\"},{\"optionid\":\"600\",\"optionvalue\":\"Uniqueidentifier\"},{\"optionid\":\"601\",\"optionvalue\":\"bit\"},{\"optionid\":\"607\",\"optionvalue\":\"date\"}]"
+          },
+          {
+            "islookup": false,
+            "masterid": "7035",
+            "mastervalues": "[{\"optionid\":\"602\",\"optionvalue\":\"textbox\"},{\"optionid\":\"603\",\"optionvalue\":\"multiselect\"},{\"optionid\":\"604\",\"optionvalue\":\"dropdown\"},{\"optionid\":\"605\",\"optionvalue\":\"date\"},{\"optionid\":\"606\",\"optionvalue\":\"radiobutton\"},{\"optionid\":\"608\",\"optionvalue\":\"checkbox\"},{\"optionid\":\"19000510605\",\"optionvalue\":\"datepicker\"},{\"optionid\":\"19000510606\",\"optionvalue\":\"weekfilter\"},{\"optionid\":\"19000510614\",\"optionvalue\":\"Textbox_time\"},{\"optionid\":\"19000510622\",\"optionvalue\":\"Textarea\"},{\"optionid\":\"19000510668\",\"optionvalue\":\"groupdropdown\"}]"
+          },
+          {
+            "islookup": false,
+            "masterid": "1007",
+            "mastervalues": "[{\"optionid\":\"2023\",\"optionvalue\":\"Sales & Marketing\"},{\"optionid\":\"2024\",\"optionvalue\":\"Dev Tools\"}]"
+          },
+          {
+            "islookup": false,
+            "masterid": "00001",
+            "mastervalues": "[{\"optionid\":\"01\",\"optionvalue\":\"Auto Charge\"},{\"optionid\":\"02\",\"optionvalue\":\"Manual Charge\"}]"
+          },
+          {
+            "islookup": false,
+            "masterid": "00002",
+            "mastervalues": "[{\"optionid\":\"01\",\"optionvalue\":\"Active\"},{\"optionid\":\"02\",\"optionvalue\":\"Inactive\"},{\"optionid\":\"03\",\"optionvalue\":\"Paused\"}]"
+          },
+          {
+            "islookup": false,
+            "masterid": "00003",
+            "mastervalues": "[{\"optionid\":\"01\",\"optionvalue\":\"ArcCRM\"},{\"optionid\":\"02\",\"optionvalue\":\"ArcHRM\"},{\"optionid\":\"03\",\"optionvalue\":\"ArcOM\"}]"
+          },
+          {
+            "islookup": false,
+            "masterid": "00004",
+            "mastervalues": "[{\"optionid\":\"01\",\"optionvalue\":\"Standard\"},{\"optionid\":\"02\",\"optionvalue\":\"Enterprise\"},{\"optionid\":\"03\",\"optionvalue\":\"Enterprise\"}]"
+          },
+          {
+            "islookup": false,
+            "masterid": "00005",
+            "mastervalues": "[{\"optionid\":\"01\",\"optionvalue\":\"Monthly\"},{\"optionid\":\"02\",\"optionvalue\":\"Yearly\"}]"
+          }
+        ]
+      },
+      "messages": [],
+      "succeeded": true
+    }
+  },
+  "adminsubscription_getlistconfigbyid": {
+    "result": {
+      "list": [
+        {
+          "id": "e4b695e2-8e27-4e22-b180-b5179a7882aa",
+          "entityid": "6986bd85-151e-468d-82e5-acebb9b12365",
+          "entityname": "Application",
+          "name": "Default_Application",
+          "header": {
+            "name": "Application"
+          },
+          "type": "List",
+          "data": {
+            "dataset": [
+              {
+                "datasetid": "be1ab027-8957-49b6-b550-0f593c384ed4",
+                "title": "All Application",
+                "isdefault": true,
+                "isselected": true,
+                "owner": "system",
+                "seqno": 1
+              }
+            ],
+            "config": {
+              "listfields": [
+                {
+                  "id": "01",
+                  "name": "Product",
+                  "lablekey": "lbl_App_Plan",
+                  "columnwidth": 150,
+                  "seqno": 10,
+                  "api_name": "Product",
+                  "visible": true,
+                  "displayapiname": "Product",
+                  "istitle": false,
+                  "isdate": false,
+                  "isinlineeditable": false,
+                  "masterid": "",
+                  "controltype": "textbox",
+                  "attrtype": "text",
+                  "islookup": false
+                },
+                {
+                  "id": "022",
+                  "name": "Subscription Id",
+                  "lablekey": "lbl_App_Plan",
+                  "columnwidth": 150,
+                  "seqno": 10,
+                  "api_name": "SubscriptionId",
+                  "visible": true,
+                  "displayapiname": "SubscriptionId",
+                  "istitle": true,
+                  "isdate": false,
+                  "isinlineeditable": false,
+                  "masterid": "",
+                  "controltype": "textbox",
+                  "attrtype": "text",
+                  "islookup": false
+                },
+                {
+                  "id": "02",
+                  "name": "Customer Name",
+                  "lablekey": "lbl_App_Plan",
+                  "columnwidth": 150,
+                  "seqno": 10,
+                  "api_name": "CustomerName",
+                  "visible": true,
+                  "displayapiname": "CustomerName",
+                  "istitle": false,
+                  "isdate": false,
+                  "isinlineeditable": false,
+                  "masterid": "",
+                  "controltype": "textbox",
+                  "attrtype": "text",
+                  "islookup": false
+                },
+                {
+                  "id": "03",
+                  "name": "Current Plan",
+                  "lablekey": "lbl_App_Plan",
+                  "columnwidth": 150,
+                  "seqno": 10,
+                  "api_name": "CurrentPlan",
+                  "visible": true,
+                  "displayapiname": "CurrentPlan",
+                  "istitle": false,
+                  "isdate": false,
+                  "isinlineeditable": false,
+                  "masterid": "",
+                  "controltype": "textbox",
+                  "attrtype": "text",
+                  "islookup": false
+                },
+                {
+                  "id": "04",
+                  "name": "Activation Date",
+                  "lablekey": "lbl_App_Plan",
+                  "columnwidth": 150,
+                  "seqno": 10,
+                  "api_name": "ActivationDate",
+                  "visible": true,
+                  "displayapiname": "ActivationDate",
+                  "istitle": false,
+                  "isdate": true,
+                  "isinlineeditable": false,
+                  "masterid": "",
+                  "controltype": "textbox",
+                  "attrtype": "text",
+                  "islookup": false
+                },
+                {
+                  "id": "05",
+                  "name": "Expiry Date",
+                  "lablekey": "lbl_App_Plan",
+                  "columnwidth": 150,
+                  "seqno": 10,
+                  "api_name": "ExpiryDate",
+                  "visible": true,
+                  "displayapiname": "ExpiryDate",
+                  "istitle": false,
+                  "isdate": true,
+                  "isinlineeditable": false,
+                  "masterid": "",
+                  "controltype": "textbox",
+                  "attrtype": "text",
+                  "islookup": false
+                },
+                {
+                  "id": "06",
+                  "name": "Amount",
+                  "lablekey": "lbl_App_Plan",
+                  "columnwidth": 150,
+                  "seqno": 10,
+                  "api_name": "Amount",
+                  "visible": true,
+                  "displayapiname": "Amount",
+                  "istitle": false,
+                  "isdate": false,
+                  "isinlineeditable": false,
+                  "masterid": "",
+                  "controltype": "textbox",
+                  "attrtype": "text",
+                  "islookup": false
+                },
+                {
+                  "id": "07",
+                  "name": "Status",
+                  "lablekey": "lbl_App_Plan",
+                  "columnwidth": 150,
+                  "seqno": 10,
+                  "api_name": "Status",
+                  "visible": true,
+                  "displayapiname": "Status",
+                  "istitle": false,
+                  "isdate": false,
+                  "isinlineeditable": false,
+                  "masterid": "",
+                  "controltype": "textbox",
+                  "attrtype": "text",
+                  "islookup": false
+                },
+
+                {
+                  "id": "09",
+                  "name": "Payment Type",
+                  "lablekey": "lbl_App_Plan",
+                  "columnwidth": 150,
+                  "seqno": 10,
+                  "api_name": "PaymentType",
+                  "visible": true,
+                  "displayapiname": "PaymentType",
+                  "istitle": false,
+                  "isdate": false,
+                  "isinlineeditable": false,
+                  "masterid": "",
+                  "controltype": "textbox",
+                  "attrtype": "text",
+                  "islookup": false
+                },
+                {
+                  "id": "10",
+                  "name": "Frequency",
+                  "lablekey": "lbl_App_Plan",
+                  "columnwidth": 150,
+                  "seqno": 10,
+                  "api_name": "Frequency",
+                  "visible": true,
+                  "displayapiname": "Frequency",
+                  "istitle": false,
+                  "isdate": false,
+                  "isinlineeditable": false,
+                  "masterid": "",
+                  "controltype": "textbox",
+                  "attrtype": "text",
+                  "islookup": false
+                }
+              ],
+              "filterfields": [
+                {
+                  "id": "bb7f219e-d5aa-4aa3-ba78-2b942f6aed03",
+                  "name": "Customer Name",
+                  "lablekey": "lbl-Workitem-title",
+                  "seqno": 1,
+                  "filtercontroltype": "textbox",
+                  "isquickfilter": true,
+                  "api_name": "column16",
+                  "islookup": false,
+                  "masterid": "",
+                  "apioutputskey": "",
+                  "apioutputvalue": ""
+                },
+                {
+                  "id": "9edc9195-7340-4d86-b17e-7883bd935fc9asas",
+                  "name": "Product",
+                  "lablekey": "lbl_app_Category",
+                  "seqno": 20,
+                  "filtercontroltype": "multiselect",
+                  "isquickfilter": true,
+                  "api_name": "category",
+                  "islookup": false,
+                  "masterid": "00003",
+                  "apioutputskey": "Optionid",
+                  "isvisible": true,
+                  "apioutputvalue": "optionvalue"
+                },
+                {
+                  "id": "9edc9195-7340-4d86-b17e-sdsd",
+                  "name": "Plan",
+                  "lablekey": "lbl_app_Category",
+                  "seqno": 20,
+                  "filtercontroltype": "multiselect",
+                  "isquickfilter": true,
+                  "api_name": "category",
+                  "islookup": false,
+                  "masterid": "00004",
+                  "apioutputskey": "Optionid",
+                  "isvisible": true,
+                  "apioutputvalue": "optionvalue"
+                },
+                {
+                  "id": "9edc9195-7340-4d86-b17e-7883bd935fc9",
+                  "name": "Frequency",
+                  "lablekey": "lbl_app_Category",
+                  "seqno": 20,
+                  "filtercontroltype": "multiselect",
+                  "isquickfilter": true,
+                  "api_name": "category",
+                  "islookup": false,
+                  "masterid": "00005",
+                  "apioutputskey": "Optionid",
+                  "isvisible": true,
+                  "apioutputvalue": "optionvalue"
+                },
+                {
+                  "id": "9edc9195-7340-4d86-b17e-7883bd935fc9",
+                  "name": "Expiry date",
+                  "lablekey": "lbl_app_Category",
+                  "seqno": 20,
+                  "filtercontroltype": "datepicker",
+                  "isquickfilter": true,
+                  "api_name": "category",
+                  "islookup": false,
+                  "masterid": "00001",
+                  "apioutputskey": "Optionid",
+                  "isvisible": true,
+                  "apioutputvalue": "optionvalue"
+                },
+                {
+                  "id": "9edc9195-7340-4d86-b17e-7883bd935fc10",
+                  "name": "Status",
+                  "lablekey": "lbl_app_Categorya",
+                  "seqno": 20,
+                  "filtercontroltype": "multiselect",
+                  "isquickfilter": true,
+                  "api_name": "category",
+                  "islookup": false,
+                  "masterid": "00002",
+                  "apioutputskey": "Optionid",
+                  "isvisible": true,
+                  "apioutputvalue": "optionvalue"
+                }
+              ],
+              "groupbyfields": [
+                {
+                  "id": "3c880add-256d-4258-b6ab-29c499e050bd",
+                  "name": "Payment Type",
+                  "labelkey": "lbl_app_Category",
+                  "seqno": 1,
+                  "api_name": "PaymentType",
+                  "type": "Horizontal",
+                  "direction": "-",
+                  "isvisible": true,
+                  "masterid": "00001"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  "adminsubscription_getdataset": {
+    "result": {
+      "id": "be1ab027-8957-49b6-b550-0f593c384ed4",
+      "name": "All Application",
+      "owner": null,
+      "isdefault": true,
+      "last_accessed_time": null,
+      "filters": [],
+      "groupby": [
+        {
+          "id": "3c880add-256d-4258-b6ab-29c499e050bd",
+          "type": "Horizontal",
+          "direction": "asc",
+          "defaultvalue": "01",
+          "api_name": "PaymentType",
+          "masterid": "00001",
+          "seq": null
+        }
+      ],
+      "columns": [
+        {
+          "id": "022",
+          "seqno": 1,
+          "api_name": "SubscriptionId",
+          "columnwidth": 150
+        },
+        {
+          "id": "02",
+          "seqno": 2,
+          "api_name": "CustomerName",
+          "columnwidth": 150
+        },
+        {
+          "id": "01",
+          "seqno": 2,
+          "api_name": "Product",
+          "columnwidth": 150
+        },
+        {
+          "id": "03",
+          "seqno": 2,
+          "api_name": "CurrentPlan",
+          "columnwidth": 150
+        },
+        {
+          "id": "10",
+          "seqno": 2,
+          "api_name": "Frequency",
+          "columnwidth": 150
+        },
+
+        {
+          "id": "05",
+          "seqno": 4,
+          "api_name": "ExpiryDate",
+          "columnwidth": 150
+        },
+        {
+          "id": "06",
+          "seqno": 5,
+          "api_name": "Amount",
+          "columnwidth": 150
+        },
+        {
+          "id": "07",
+          "seqno": 6,
+          "api_name": "Status",
+          "columnwidth": 150
+        },
+
+        {
+          "id": "09",
+          "seqno": 8,
+          "api_name": "PaymentType",
+          "columnwidth": 150
+        }
+      ]
+    }
+  },
+  "adminsubscription_getlist": {
+    "result": {
+      "data": [
+        {
+          "id": "001",
+          "Product": "ArcCRM",
+          "SubscriptionId": "Subscription_001",
+          "CustomerName": "John",
+          "CurrentPlan": "Standard",
+          "ActivationDate": "12/26/2024 12:00:00 AM",
+          "ExpiryDate": "12/26/2024 12:00:00 AM",
+          "ExpiryStatus": "Expire in 5 days",
+          "Amount": "$1000",
+          "Status": "Active",
+          "PaymentType": "Auto Charge",
+          "Actions": "Renew",
+          "Frequency": "Monthly"
+        },
+        {
+          "id": "002",
+          "Product": "ArcHRM",
+          "SubscriptionId": "Subscription_002",
+          "CustomerName": "David",
+          "CurrentPlan": "Enterprise",
+          "ActivationDate": "12/26/2024 12:00:00 AM",
+          "ExpiryDate": "12/26/2024 12:00:00 AM",
+          "ExpiryStatus": "Expire in 10 days",
+          "Amount": "$1100",
+          "Status": "Inactive",
+          "PaymentType": "Manual Charge",
+          "Actions": "Renew",
+          "Frequency": "Yearly"
+        },
+        {
+          "id": "003",
+          "Product": "ArcOM",
+          "SubscriptionId": "Subscription_003",
+          "CustomerName": "Micheal",
+          "CurrentPlan": "Standard",
+          "ActivationDate": "12/26/2024 12:00:00 AM",
+          "ExpiryDate": "12/26/2024 12:00:00 AM",
+          "ExpiryStatus": "Expire in 250 days",
+          "Amount": "$1000",
+          "Status": "Paused",
+          "PaymentType": "Auto Charge",
+          "Actions": "Renew",
+          "Frequency": "Monthly"
+        }
+      ],
+      "totalRecords": 4
+    }
+  }
+}
